@@ -1,0 +1,17 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 3
+implicitly_wait: 3
+username: "GB202306611b52"
+password: "b61449c907"
+
+username_for_post: "TamRab"
+password_for_post: "14ad9705ac"
+title: "My title"
+desc: "My description"
+content: "My content"
+
+name: "Rybka"
+email: "rybka@mail.ru"
+
+address_post: https://test-stand.gb.ru/posts/

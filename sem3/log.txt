@@ -1,0 +1,13 @@
+= 2023-10-26 00:10:13 INFO ====== WebDriver manager ======
+= 2023-10-26 00:10:14 INFO Get LATEST chromedriver version for google-chrome
+= 2023-10-26 00:10:17 INFO Get LATEST chromedriver version for google-chrome
+= 2023-10-26 00:10:17 INFO Driver [C:\Users\kitti\.wdm\drivers\chromedriver\win64\118.0.5993.70\chromedriver-win32/chromedriver.exe] found in cache
+= 2023-10-26 00:10:19 INFO Test4 Starting
+= 2023-10-26 00:10:20 INFO Send TamRab to element //*[@id="login"]/div[1]/label/input
+= 2023-10-26 00:10:35 INFO Send 14ad9705ac to element //*[@id="login"]/div[2]/label/input
+= 2023-10-26 00:10:36 INFO Click login button
+= 2023-10-26 00:10:36 INFO Click save button
+= 2023-10-26 00:10:39 INFO Send Rybka to element //*[@id="contact"]/div[1]/label/input
+= 2023-10-26 00:10:40 INFO Send rybka@mail.ru to element //*[@id="contact"]/div[2]/label/input
+= 2023-10-26 00:10:40 INFO Send contact me to element //*[@id="contact"]/div[3]/label/span/textarea
+= 2023-10-26 00:10:40 INFO Click contact save button
