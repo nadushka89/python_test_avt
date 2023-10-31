@@ -1,0 +1,18 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 3
+implicitly_wait: 3
+login: "TamRab"
+pswd: "14ad9705ac"
+title: "My title"
+description: "My description"
+content: "My content"
+
+u_name: "Rybka"
+u_email: "rybka@mail.ru"
+content_contact: One of them has interesting and useful things to say, but can not get their point across.
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: "Роза - мой любимый цветок!"
